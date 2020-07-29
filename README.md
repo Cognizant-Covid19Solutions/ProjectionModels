@@ -17,7 +17,6 @@ KIND, either express or implied.  See the License for the
 specific language governing permissions and limitations
 under the License.
 
-Additional information on the development of this COVID Case Projection Model can be found here: (Link to article be pasted)
 
 *Applicable datasets are made available by their respective providers pursuant to the terms set forth on the applicable sites on which they are made available.*
 
